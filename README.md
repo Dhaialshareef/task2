@@ -30,3 +30,4 @@ stopMotors(): Stops the motors.
 Alternating Between Right and Left:
 
 In the alternateRightLeft() function, the motors alternate between turning right and left for 1 minute. Each direction lasts for 1 second, followed by a 0.5-second pause
+![Image](https://github.com/user-attachments/assets/07e5ebe5-6634-4eae-9b20-4b8a2d4e6d30)
